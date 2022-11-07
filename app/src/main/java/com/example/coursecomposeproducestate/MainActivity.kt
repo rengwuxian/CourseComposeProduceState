@@ -1,4 +1,4 @@
-package c
+package com.example.coursecomposeproducestate
 
 import android.graphics.Point
 import android.os.Bundle
